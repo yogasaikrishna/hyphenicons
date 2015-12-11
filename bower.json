@@ -1,13 +1,13 @@
 {
   "name": "hyphen-icons",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/finday/hyphenicons",
   "authors": [
     "Yogasaikrishna <yogasaikrishna@gmail.com>"
   ],
   "description": "Font Icons for Hyphen framework",
   "main": [
-	"hyphenfont.css",
+	"./css/hyphen-icons.css",
 	"./fonts/*"
   ],
   "keywords": [
