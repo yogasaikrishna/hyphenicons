@@ -1,0 +1,26 @@
+{
+  "name": "hyphen-icons",
+  "version": "0.0.1",
+  "homepage": "https://github.com/finday/hyphenicons",
+  "authors": [
+    "Yogasaikrishna <yogasaikrishna@gmail.com>"
+  ],
+  "description": "Font Icons for Hyphen framework",
+  "main": [
+	"hyphenfont.css",
+	"./fonts/*"
+  ],
+  "keywords": [
+    "Icon",
+    "Font",
+    "Hyphen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
