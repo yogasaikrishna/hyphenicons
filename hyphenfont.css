@@ -1,17 +1,17 @@
 @font-face {
-	font-family: 'hyphen-icons';
-	src:url('fonts/hyphen-icons.eot?7ouw22');
-	src:url('fonts/hyphen-icons.eot?7ouw22#iefix') format('embedded-opentype'),
-		url('fonts/hyphen-icons.ttf?7ouw22') format('truetype'),
-		url('fonts/hyphen-icons.woff?7ouw22') format('woff'),
-		url('fonts/hyphen-icons.svg?7ouw22#hyphen-icons') format('svg');
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?7ouw22');
+	src:url('fonts/icomoon.eot?7ouw22#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?7ouw22') format('truetype'),
+		url('fonts/icomoon.woff?7ouw22') format('woff'),
+		url('fonts/icomoon.svg?7ouw22#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
-	font-family: 'hyphen-icons' !important;
+	font-family: 'icomoon' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
